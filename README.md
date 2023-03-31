@@ -2,7 +2,7 @@
 <b>Virus Trojan</b>
 
 ```
-git clone https://github.com/ShahrokhParazit/Trojan-MEMZ
+git clone https://github.com/MrTelepathic/Trojan-MEMZ
 
 ```
 
